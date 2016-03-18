@@ -1,2 +1,2 @@
-# JavaFX-with-Scala
-JavaFX with Scala
+# JavaFX
+JavaFX with Eclipse
